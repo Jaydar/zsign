@@ -8,5 +8,3 @@ RUN apk add --no-cache --virtual .build-deps g++ clang clang-static openssl-dev 
 	apk del .build-deps && \
     rm -rf src
 
-ENTRYPOINT ["/zsign/zsign"]
-CMD ["-v"]
