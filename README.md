@@ -66,7 +66,7 @@ another ref for chinese: https://blog.csdn.net/a513436535/article/details/108539
 
 ```bash
 sudo apt-get install zip unzip git build-essential checkinstall zlib1g-dev libssl-dev -y
-```bash
+```
 
 and then
 ```bash
